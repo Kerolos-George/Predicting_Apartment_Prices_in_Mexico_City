@@ -1,5 +1,5 @@
 # Predicting_Apartment_Prices_in_Mexico_City
-This project aims to build a machine learning model that can predict the prices of apartments in Mexico City based on various features such as location, size, number of bedrooms, etc. The dataset used for this project is publicly available on Kaggle 
+This project aims to build a machine learning model that can predict the prices of apartments in Mexico City based on various features such as location, size, etc. The dataset used for this project is publicly available on Kaggle 
 ## Data
  The dataset used for this project is available in the data folder 
 ## Methodology
