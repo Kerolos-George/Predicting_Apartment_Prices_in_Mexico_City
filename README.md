@@ -13,7 +13,7 @@ This project aims to build a machine learning model that can predict the prices 
 6-Model Evaluation - evaluating the performance of the final model on a holdout dataset.
 
 ## Algorithms Used
-Linear Regression
-Ridge
+######### 1-Linear Regression
+#########R 2-Ridge
 
 
